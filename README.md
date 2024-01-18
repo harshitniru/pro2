@@ -1,4 +1,4 @@
-# pro2
+2nd program:
  Consider the following schema for Order Database:
 SALESMAN(Salesman_id, Name, City, Commission)
 CUSTOMER(Customer_id, Cust_Name, City, Grade, Salesman_id)
